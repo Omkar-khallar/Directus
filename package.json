@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@directus/sdk": "^19.0.0",
+    "axios": "^1.7.9",
+    "pg": "^8.13.1"
+  }
+}
